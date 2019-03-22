@@ -3,6 +3,23 @@ Changelog
 
 All notable changes to this project will be documented in this file.
 
+## [Unreleased]
+### Added
+
+- TBA
+
+### Changed
+
+- TBA
+
+### Removed
+
+- TBA
+
+### Fixed
+
+- TBA
+
 ## [2.7.4] - 2019-03-05
 ### Fixed
 
